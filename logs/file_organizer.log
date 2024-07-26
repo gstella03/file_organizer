@@ -1,0 +1,38 @@
+13/07/24 11:47:34 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.141.99:5000
+13/07/24 11:47:34 - INFO - [33mPress CTRL+C to quit[0m
+13/07/24 11:47:34 - INFO -  * Restarting with stat
+13/07/24 11:47:35 - WARNING -  * Debugger is active!
+13/07/24 11:47:35 - INFO -  * Debugger PIN: 125-361-835
+13/07/24 11:47:42 - INFO - 127.0.0.1 - - [13/Jul/2024 11:47:42] "GET / HTTP/1.1" 200 -
+13/07/24 11:47:42 - INFO - 127.0.0.1 - - [13/Jul/2024 11:47:42] "GET /static/style.css HTTP/1.1" 200 -
+13/07/24 11:47:48 - ERROR - Error: La directory non esiste.
+13/07/24 11:47:48 - INFO - 127.0.0.1 - - [13/Jul/2024 11:47:48] "[32mPOST /organize HTTP/1.1[0m" 302 -
+13/07/24 11:47:48 - INFO - 127.0.0.1 - - [13/Jul/2024 11:47:48] "GET / HTTP/1.1" 200 -
+13/07/24 11:47:49 - INFO - 127.0.0.1 - - [13/Jul/2024 11:47:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 11:48:21 - INFO -  * Detected change in '/home/pippo/main/file_organizer/app.py', reloading
+13/07/24 11:48:21 - INFO -  * Restarting with stat
+13/07/24 11:48:21 - WARNING -  * Debugger is active!
+13/07/24 11:48:21 - INFO -  * Debugger PIN: 125-361-835
+13/07/24 11:48:27 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+13/07/24 11:48:27 - INFO - [33mPress CTRL+C to quit[0m
+13/07/24 11:48:27 - INFO -  * Restarting with stat
+13/07/24 11:48:27 - WARNING -  * Debugger is active!
+13/07/24 11:48:27 - INFO -  * Debugger PIN: 125-361-835
+13/07/24 11:49:00 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:00] "GET / HTTP/1.1" 200 -
+13/07/24 11:49:00 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:00] "GET /static/style.css HTTP/1.1" 200 -
+13/07/24 11:49:00 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+13/07/24 11:49:06 - ERROR - Error: La directory non esiste.
+13/07/24 11:49:06 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:06] "[32mPOST /organize HTTP/1.1[0m" 302 -
+13/07/24 11:49:06 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:06] "GET / HTTP/1.1" 200 -
+13/07/24 11:49:06 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+13/07/24 11:49:31 - DEBUG - Moved file readme.md to /home/pippo/main/Universita/Lab2/05python/filesystem/file_organizer/md
+13/07/24 11:49:31 - DEBUG - Moved file app2.py to /home/pippo/main/Universita/Lab2/05python/filesystem/file_organizer/py
+13/07/24 11:49:31 - DEBUG - Moved file start_app.sh to /home/pippo/main/Universita/Lab2/05python/filesystem/file_organizer/sh
+13/07/24 11:49:31 - DEBUG - Moved file ReadMe.md to /home/pippo/main/Universita/Lab2/05python/filesystem/file_organizer/md
+13/07/24 11:49:31 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:31] "[32mPOST /organize HTTP/1.1[0m" 302 -
+13/07/24 11:49:31 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:31] "GET / HTTP/1.1" 200 -
+13/07/24 11:49:31 - INFO - 127.0.0.1 - - [13/Jul/2024 11:49:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
